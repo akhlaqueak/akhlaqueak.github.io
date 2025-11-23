@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: "Raise your words, not your voice. It is rain that grows flowers, not thunder." — Rumi
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a researcher and educator specializing in large-scale data systems, graph analytics, and high-performance computing. My work spans cutting-edge problems in scalable graph mining, GPU-accelerated algorithms, geospatial analytics, and 3D graphics reconstruction, with publications in top venues including VLDB, ICDE, KDD, CIKM, HPDC, and SIGSpatial. I have contributed to award-winning research on out-of-core spatial joins, developed efficient GPU-based frameworks for subgraph discovery, and explored the intersection of machine learning and big data systems. Alongside my research, I bring extensive teaching experience across database systems, algorithms, artificial intelligence, and systems programming, shaped by over a decade of academic appointments in the US, Turkey, Pakistan, and Italy. I am passionate about building scalable computational solutions, mentoring students, and advancing data-driven research that bridges theory, systems, and real-world applications
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
