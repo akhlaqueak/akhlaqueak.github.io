@@ -21,7 +21,7 @@ author: Akhlaque Ahmad
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "_posts/publications"
+  Publications: "publications"
 ################
 # --- Logo --- #
 ################
