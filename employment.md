@@ -1,4 +1,7 @@
-# Employment History
+---
+layout: page
+title: "Employment History"
+---
 
    **Assistant Scientist**, Indiana University Bloomington, USA (2024 -- Present)
 

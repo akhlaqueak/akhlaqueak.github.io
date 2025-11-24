@@ -1,4 +1,7 @@
-# Education
+---
+layout: page
+title: "Education"
+---
 
    **Ph.D. in Electronics and Communication Engineering**, Politecnico
     di Torino, Italy (2014)\
