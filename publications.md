@@ -50,7 +50,7 @@ title: "Publications"
   **KDD**, 2024
 
 * **G2-aimd: A Memory-Efficient Subgraph-Centric Framework for Efficient Subgraph Finding on GPUs**
-  *L. Yuan, D. Yan, J. Han, **A. Ahmad**, Y. Zhou, Z. Jiang*
+  *L. Yuan, **A. Ahmad**, D. Yan, J. Han, S. Adhikari, X. Yu, Y. Zhou*
   **ICDE**, 2024
 
 * **Faster Depth-First Subgraph Matching on GPUs**
