@@ -17,6 +17,10 @@ title: "Publications"
   ***A. Ahmad***, *D. Yan, X. Chen, L. Yuan, Q. Zhang, S. Adhikari*
   **VLDB Endowment**, 2025
 
+* **Faster Annotation for Elevation-Guided Flood Extent Mapping by Consistency-Enhanced Active Learning**
+  *S. Adhikari, D. Yan, T. Wang, L. Dyken, S. Kumar, L. Yuan, **A. Ahmad**, J. Han, Y. Zhou, S. Petruzza*
+  **IJCAI**, 2025
+
 * **Systems for Scalable Graph Analytics and Machine Learning: Trends and Methods**
   *D. Yan, L. Yuan, **A. Ahmad**, S. Adhikari*
   **EDBT**, 2025
